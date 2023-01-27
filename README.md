@@ -2,7 +2,9 @@
 
 ***
 
-**The backend server project:**[damnaku-webpage](https://github.com/LuoXishuang0712/danmaku-webpage)
+[简体中文(Simplified Chinese)](./README_zhcn.md)
+
+**The backend server project:**[damnaku-webpage](https://github.com/LuoXishuang0712/danmaku-server)
 
 ## What is Danmaku
 

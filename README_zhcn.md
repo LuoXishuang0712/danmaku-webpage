@@ -2,7 +2,9 @@
 
 ***
 
-**后端项目：**[damnaku-webpage](https://github.com/LuoXishuang0712/danmaku-webpage)
+[English](./README.md)
+
+**后端项目：**[damnaku-webpage](https://github.com/LuoXishuang0712/danmaku-server)
 
 ## 什么是弹幕
 
